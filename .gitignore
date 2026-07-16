@@ -1,0 +1,5 @@
+license_manager.py
+private/
+*.pem
+*.key
+__pycache__/
