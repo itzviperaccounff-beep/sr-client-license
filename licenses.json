@@ -29,6 +29,12 @@
       "hwid": "PENDING",
       "status": "active",
       "expires": "2026-08-23"
+    },
+    {
+      "key": "SR-4T7R-DPO3-P9JM",
+      "hwid": "PENDING",
+      "status": "active",
+      "expires": "2026-08-23"
     }
   ]
 }
