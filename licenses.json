@@ -35,6 +35,12 @@
       "hwid": "PENDING",
       "status": "active",
       "expires": "2026-08-23"
+    },
+    {
+      "key": "SR-ZED5-6O22-FDJ3",
+      "hwid": "PENDING",
+      "status": "active",
+      "expires": "2026-08-26"
     }
   ]
 }
